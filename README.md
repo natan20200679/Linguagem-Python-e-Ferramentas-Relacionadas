@@ -1,5 +1,5 @@
 # Linguagem Python e Ferramentas Relacionadas (Frameworks e Bibliotecas) 
-- Exemplos práticos envolvendo situações do dia a dia, utilizando-se as propriedades e características nativas dessa linguagem -> Basic; Advanced
+- Exemplos práticos envolvendo situações do dia a dia, utilizando-se as propriedades e características nativas dessa linguagem -> Advanced; Basic
 - Exemplo prático envolvendo situação do dia a dia, utilizando-se o framework Django -> Django (JRPV - PythonPro)
 - Exemplos práticos envolvendo características e propriedades da Estrutura de Dados nessa linguagem -> Estrutura de Dados
 - Exemplos práticos envolvendo situações do dia a dia, características e propriedades da Orientação à Objetos nessa linguagem -> Orientação à Objetos (JRPV)
